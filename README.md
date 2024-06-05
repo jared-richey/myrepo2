@@ -2,6 +2,6 @@
 
 Repo used to practice git commands for Code:Kentucky boot camp.  
 
-Useful website for visualizing git commands (here)[https://git-school.github.io/visualizing-git/]  
+Useful website for visualizing git commands [here](https://git-school.github.io/visualizing-git/)  
 
-Helpful (cheatsheet)[git-cheat-sheet-education.pdf]  
+Helpful cheatsheet [here](git-cheat-sheet-education.pdf)  
